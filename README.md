@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Wala' Essam Ashqar
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Frontend Development
+  
+- Full Stack & Front-End Developer | Computer Engineer
+
+- 🌱 Junior developer with experience in Angular (front-end), Node.js (back-end), and Flutter for mobile applications. Skilled in building responsive, user-friendly interfaces and writing clean, maintainable code.
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
